@@ -13,11 +13,12 @@
    * ### Platform labs          *:Remote access in the portal*
  * ### Technology               *:SkyWater 130nm process node*
  * ### Open source tools:
-       * Yosys – for Synthesis
-       * OpenLane - for RTL2GDS
-       * NgSpice - for Characterisation
-       * Magic – for Layout and Floorplanning
-       * OpenSTA – Pre-layout and Post-layout Static timing analysis
+       
+       * Yosys    – Synthesis
+       * OpenLane - RTL2GDS
+       * NgSpice  - Characterisation
+       * Magic    – Layout and Floorplanning
+       * OpenSTA  – Pre-layout and Post-layout Static timing analysis
 
 
 
