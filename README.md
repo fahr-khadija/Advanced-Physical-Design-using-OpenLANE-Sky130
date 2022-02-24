@@ -1,4 +1,4 @@
--![image]()
+-![image](https://user-images.githubusercontent.com/100168693/155585079-6da5e370-4b4c-48df-b335-3834255d9ae9.png)
 
 # Detail Report of my 5 days workshop in Advanced Physical Design using OpenLANE Sky130.
 ## In this workshop we will 
@@ -9,9 +9,9 @@
   * Explore and contribute to open source EDA world
 
 ## Global Specifications 
-   * ### Reference Design Base  :RISC-V based PicoRV32 SoC  
-   * ### Platform labs          :Remote access in the portal
- * ### Technology             :SkyWater 130nm process node.
+   * ### Reference Design Base  *:RISC-V based PicoRV32 SoC*  
+   * ### Platform labs          *:Remote access in the portal*
+ * ### Technology               *:SkyWater 130nm process node*
  * ### Open source tools:
        * Yosys – for Synthesis
        * OpenLane - for RTL2GDS
@@ -23,35 +23,30 @@
 
 
 
-
-
-
-
-
 ## Table Of Contents 
  
 * ### [Day 1    Inception of open-source EDA, OpenLANE and Sky130 PDK](https://github.com/Fahr-khadija/Advanced-Physical-Design-using-OpenLANE-Sky130#day-1----Inception-of-open-source-EDA,-OpenLANE-and-Sky130-PDK)
-  * #### [How to talk to computers
-  * #### [SoC design and OpenLANE
-  * #### [Starting RISC-V SoC Reference design
-  * #### [Get familiar to open-source EDA tools
-* ### [Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells]
-	Chip Floor planning considerations
-	Library Binding and Placement
-	Cell design and characterization flows
-	General timing characterization parameters
-Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice
-	Labs for CMOS inverter ngspice simulations
-	Inception of Layout – CMOS fabrication process
-	Sky130 Tech File Labs
-Day 4 - Pre-layout timing analysis and importance of good clock tree
-	Timing modelling using delay tables
-	Timing analysis with ideal clocks using openSTA
-	Clock tree synthesis TritonCTS and signal integrity
-	Timing analysis with real clocks using openSTA
-Day 5 - Final steps for RTL2GDS
-	Routing and design rule check (DRC)
-	PNR interactive flow tutorial
+  * #### [How to talk to computers]
+  * #### [SoC design and OpenLANE]
+  * #### [Starting RISC-V SoC Reference design]
+  * #### [Get familiar to open-source EDA tools]
+* ### [Day 2    Understand importance of good floorplan vs bad floorplan and introduction to library cells](https://github.com/Fahr-khadija/Advanced-Physical-Design-using-OpenLANE-Sky130#Day-2----Understand-importance-of-good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells)
+  * #### [Chip Floor planning considerations]
+  * #### [Library Binding and Placement]
+  * #### [design and characterization flows]
+  * #### [General timing characterization parameters]
+Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice]
+  * #### [Labs for CMOS inverter ngspice simulations]
+  * #### [Inception of Layout – CMOS fabrication process]
+  * #### [Sky130 Tech File Labs]
+Day 4 - Pre-layout timing analysis and importance of good clock tree]
+  * #### [Timing modelling using delay tables]
+  * #### [Timing analysis with ideal clocks using openSTA]
+  * #### [Clock tree synthesis TritonCTS and signal integrity]
+  * #### [Timing analysis with real clocks using openSTA]
+Day 5 - Final steps for RTL2GDS]
+  * #### [	Routing and design rule check (DRC)]
+  * #### [PNR interactive flow tutorial]
 
 
 ## Day 1    Inception of open-source EDA, OpenLANE and Sky130 PDK
