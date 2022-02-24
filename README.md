@@ -47,7 +47,7 @@
   * #### [Clock tree synthesis TritonCTS and signal integrity]
   * #### [Timing analysis with real clocks using openSTA]
 * ### [Day5    Final steps for RTL2GDS](https://github.com/Fahr-khadija/Advanced-Physical-Design-using-OpenLANE-Sky130#Day5----Final-steps-for-RTL2GDS)
-  * #### [	Routing and design rule check (DRC)]
+  * #### Routing and design rule check (DRC)
   * #### [PNR interactive flow tutorial]
 
 
