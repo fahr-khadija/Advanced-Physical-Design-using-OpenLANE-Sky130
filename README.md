@@ -57,8 +57,12 @@
 
 
 ## Day1    Inception of open-source EDA, OpenLANE and Sky130 PDK
+
 ## Day2    Understand importance of good floorplan vs bad floorplan and introduction to library cells
+
 ## Day3    Design and characterize one library cell using Magic Layout tool and ngspice
+
 ## Day4    Pre-layout timing analysis and importance of good clock tree
+
 ## Day5    Final steps for RTL2GDS
 
