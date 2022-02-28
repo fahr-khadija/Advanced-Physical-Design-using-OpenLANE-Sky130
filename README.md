@@ -2,7 +2,7 @@
 
 # (***Advanced Physical Design using OpenLANE Sky130***)
 # Detail Report of my 5 days workshop 
-## In this workshop I will 
+## In this workshop I  
 
   * Design and characterize our own standard cell 
   * Have a hands-on in the Physical Design domain
